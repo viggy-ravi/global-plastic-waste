@@ -60,11 +60,11 @@ plastics <- tidytuesdayR::tt_load('2021-01-26')$plastics
 
 ## Plastic production per volume (tons) for major plastic 
 ## producing companies in 2019
-plaEcon <- read.csv("https://raw.githubusercontent.com/viggy-ravi/sds348_project1/main/data/new-plastics-economy-global%20commitment.csv",
+plaEcon <- read.csv("https://raw.githubusercontent.com/viggy-ravi/tidy_plastic/main/data/new-plastics-economy-global%20commitment.csv",
                  sep=",", na.strings="NA", strip.white=T, stringsAsFactors=F)
 
 ## Worldbank GDP per Capita 
-gdp <- read.csv("https://raw.githubusercontent.com/viggy-ravi/sds348_project1/main/data/worldbank_gdp.csv",
+gdp <- read.csv("https://raw.githubusercontent.com/viggy-ravi/tidy_plastic/main/data/worldbank_gdp.csv",
                 sep=",", na.strings="NA", strip.white=T, stringsAsFactors=F,
                 skip=4)
 ```
