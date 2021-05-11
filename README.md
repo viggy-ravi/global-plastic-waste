@@ -1,21 +1,5 @@
 # tidy_plastic
 
----
-title: "Project 1: Tidying Up Plastic"
-author: "Vignesh Ravindranath (vgr325)"
-date: "`r format(Sys.Date(), '%B %d, %Y')`"
-output:
-  html_document:
-    toc: true
-    toc_float:
-      collapsed: false
----
-
-```{r global_options, include=FALSE}
-#DO NOT EDIT THIS CHUNK OR ANYTHING ABOVE IT!
-knitr::opts_chunk$set(echo = TRUE, eval = TRUE, fig.align = "center", warning = F, message = F, tidy=T, tidy.opts=list(width.cutoff=50), R.options=list(max.print=100,dplyr.print_max=100))
-```
-
 ## 0.0 Introduction
 
 No one can go a day without using plastic. It has become an essential item in many of the products we buy or use regularly, furniture to clothing to electronics. Because plastic is so ubiquitous, it becomes easy at times to forget about the impact it has on the environment. Through this project, I hope to learn about the different types of plastic (I keep forgetting what all the recycling numbers mean) and their main producers. That way I can do my part to recycle correctly and avoid plastics that have the largest impact on the environment. I also hope to learn how external factors play a role in a country's plastic waste production.
