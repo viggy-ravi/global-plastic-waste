@@ -2,6 +2,8 @@
 
 ## 0.0 Introduction
 
+View project [here](https://viggy-ravi.github.io/projects/).
+
 No one can go a day without using plastic. It has become an essential item in many of the products we buy or use regularly, furniture to clothing to electronics. Because plastic is so ubiquitous, it becomes easy at times to forget about the impact it has on the environment. Through this project, I hope to learn about the different types of plastic (I keep forgetting what all the recycling numbers mean) and their main producers. That way I can do my part to recycle correctly and avoid plastics that have the largest impact on the environment. I also hope to learn how external factors play a role in a country's plastic waste production.
 
 ### 0.1 Imports
