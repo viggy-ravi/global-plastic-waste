@@ -1,4 +1,4 @@
-# tidy_plastic
+# tidy-plastic
 
 ## 0.0 Introduction
 
